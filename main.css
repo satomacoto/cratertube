@@ -1,0 +1,40 @@
+#simplemodal-overlay {background-color:#000;}
+#simplemodal-container {background-color:#333; border:8px solid #444; padding:12px;}
+body {
+}
+h1 {
+  font-size: 24px;
+  font-family: helvetica;
+  padding-left: 10px;
+  padding-bottom: 0px;
+}
+#ytPlayer {
+  padding-left:7px;
+}
+.item {
+  width: 220px;
+  margin: 10px;
+  float: left;
+}
+.photo {
+  max-width: 220px;
+}
+.note {
+  color: #fff;
+}
+.myPic
+{
+  margin:10px;
+  border-radius:10px;
+  border:1px solid #ccc;
+}
+#basic-modal-content
+{
+  z-index: -1;
+  float: left;
+}
+#map_canvas
+{
+  z-index: -2;
+  float: left;
+}
